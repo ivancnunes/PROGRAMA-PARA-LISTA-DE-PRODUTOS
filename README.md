@@ -13,7 +13,7 @@ Um programa desenvolvido para auxiliar nas compras do dia a dia, permitindo list
 
 ## PRÉ-REQUISITOS
 - Python 3.10 ou superior instalado
-- Um editor de código, como o [VS Code]
+- Um editor de código, como o VS Code
 
 ## COMO USAR
 Escolha uma opção no menu para criar, listar, editar ou exclir produtos da lista
